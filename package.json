@@ -1,0 +1,24 @@
+{
+  "name": "alipay",
+  "version": "1.0.0",
+  "description": "node.js版支付宝开放平台/蚂蚁金服开放平台/口碑开放平台 API 签名算法，单文件通用版。适用于蚂蚁金服开放平台所有API的签名算法，包括支付宝支付，口碑第三方代理。",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yi-ge/alipay.git"
+  },
+  "keywords": [
+    "支付宝开放平台",
+    "蚂蚁金服开放平台",
+    "口碑开放平台"
+  ],
+  "author": "yi-ge <a@wyr.me>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/yi-ge/alipay/issues"
+  },
+  "homepage": "https://github.com/yi-ge/alipay#readme"
+}
