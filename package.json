@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/yi-ge/alipay/issues"
   },
-  "homepage": "https://github.com/yi-ge/alipay#readme"
+  "homepage": "https://github.com/yi-ge/alipay#readme",
+  "dependencies": {
+    "axios": "^0.18.0"
+  }
 }
