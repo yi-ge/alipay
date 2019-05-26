@@ -22,7 +22,6 @@
   },
   "homepage": "https://github.com/yi-ge/alipay#readme",
   "dependencies": {
-    "axios": "^0.18.0",
-    "crypto": "^1.0.1"
+    "axios": "^0.18.0"
   }
 }
